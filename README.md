@@ -1,6 +1,6 @@
 ## Name: kabilan T
 ## Reg.No: 212222230059
-# Update the Ultrasonic sensor value in Things Mate
+# EX NO 6 Update the Ultrasonic sensor value in Things Mate
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
